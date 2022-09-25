@@ -1,0 +1,58 @@
+{
+  "transactions": [
+    {
+      "name": "Pendrive",
+      "amount": "5000",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 20000,
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    },
+    {
+      "name": "bazar",
+      "type": "expense",
+      "amount": 400,
+      "id": 6
+    },
+    {
+      "name": "mobile ",
+      "type": "expense",
+      "amount": 5000,
+      "id": 7
+    },
+    {
+      "name": "ফেলক্সি",
+      "type": "expense",
+      "amount": 10000,
+      "id": 8
+    },
+    {
+      "name": "book buy",
+      "type": "expense",
+      "amount": 1500,
+      "id": 9
+    },
+    {
+      "name": "vara",
+      "type": "income",
+      "amount": 200,
+      "id": 10
+    },
+    {
+      "name": "Blog",
+      "type": "income",
+      "amount": 20000,
+      "id": 11
+    }
+  ]
+}
